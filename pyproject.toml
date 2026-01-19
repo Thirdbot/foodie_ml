@@ -1,9 +1,9 @@
 [project]
 name = "foodie-ml"
 version = "0.1.0"
-description = ""
+description = "Food segmentation ML project using YOLO with web interface"
 authors = [
-    {name = "thirdbot",email = "astroll656@gmail.com"}
+    {name = "thirdbot", email = "astroll656@gmail.com"}
 ]
 readme = "README.md"
 requires-python = ">=3.12"
