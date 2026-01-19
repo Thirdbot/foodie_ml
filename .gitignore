@@ -1,0 +1,6 @@
+/.vscode
+/dataset
+/formatted_dataset
+/runs
+/yolo26n-seg.pt
+/yolo26n.pt
